@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <div>
+    <img src="https://cdn.svgator.com/images/2022/06/animated-svg-background-example.svg" width="100%" alt="vuanhtuan" />
+  </div>
