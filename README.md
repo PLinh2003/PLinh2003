@@ -5,11 +5,11 @@
     </div>
     <div style="height: 30px;"></div>
     <div style="display: flex;justify-content: center;">
-        <div id="avatar">
+<!--         <div id="avatar">
             <img style="border-radius: 50%; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);"
                 src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg"
                 height="150px" " alt=" vuanhtuan" style="border-radius: 15px;" />
-        </div>
+        </div> -->
         <div id="info"
             style="box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);background-color: rgb(247, 193, 193); margin-left: 30px; border-radius: 15px; padding: 5px;">
             <ul>
