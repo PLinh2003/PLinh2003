@@ -3,7 +3,7 @@
         <img src="https://media3.giphy.com/media/0n8j4zs6xhA6HuxDmQ/giphy.gif?cid=6c09b952rbult4z0x7jiq9mk8q7ishc2vxh57albb11jilma&ep=v1_gifs_search&rid=giphy.gif&ct=g"
             height="150px" " alt=" vuanhtuan" style="border-radius: 15px;" />
     </span>
-    <span style="display: flex;justify-content: center;">
+<!--     <span style="display: flex;justify-content: center;">
 <!--         <div id="avatar">
             <img style="border-radius: 50%; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);"
                 src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg"
@@ -22,5 +22,5 @@
                 <li>⚡ Fun fact: ...</li>
             </ul>
         </div>
-    </span>
+    </span> -->
 </div>
