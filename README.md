@@ -22,5 +22,5 @@
                 <li>⚡ Fun fact: ...</li>
             </ul>
         </div> -->
-    </span> -->
+    </span>
 </div>
