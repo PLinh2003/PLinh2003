@@ -9,7 +9,7 @@
                 src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg"
                 height="150px" " alt=" vuanhtuan" style="border-radius: 15px;" />
         </div> -->
-        <div id="info"
+<!--         <div id="info"
             style="box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);background-color: rgb(247, 193, 193); margin-left: 30px; border-radius: 15px; padding: 5px;">
             <ul>
                 <li>🔭 I’m currently working on ...</li>
@@ -21,6 +21,6 @@
                 <li>😄 Pronouns: ...</li>
                 <li>⚡ Fun fact: ...</li>
             </ul>
-        </div>
+        </div> -->
     </span> -->
 </div>
